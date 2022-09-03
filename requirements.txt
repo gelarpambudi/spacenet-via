@@ -1,0 +1,7 @@
+geoio
+tqdm
+matplotlib
+pillow
+scikit-image==0.16.2
+GDAL-3.3.3-cp37-cp37m-win_amd64.whl
+rasterio-1.2.10-cp37-cp37m-win_amd64.whl
